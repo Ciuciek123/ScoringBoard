@@ -3,8 +3,6 @@ package org.sportradar;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.Date;
-
 /**
  * Represents a game between two teams.
  * It captures the home team, away team, their scores, and the creation date of the game.
